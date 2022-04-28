@@ -1,0 +1,21 @@
+---
+layout: page
+title: Projects
+---
+<section class="list">
+    {% for post in site.posts %}
+        {% if post.projects %}
+            <div class="item {% if post.star %}star{% endif %}">
+                <!-- <a class="url" href="{% if post.externalLink %}{{ post.externalLink }}{% else %}{{ site.url }}{{ post.url }}{% endif %}">
+                    <aside><time datetime="{{ post.date | date:"%d-%m-%Y" }}">{{ post.date | date: "%b %d %Y" }}</time></aside>
+                    <h3 class="title">{{ post.title }}</h3>
+                </a> -->
+                <li><a href="https://assistant.charliebot.ai/">CharlieBot.ai - Atomation platform for quote processing in logistics sector</a></li>
+                <li><a href="https://thori.guane.com.co/">Thori - Forecasting platform for electrical generation and demand</a></li>
+                <li><a href="https://kronos.charliebot.ai/">Kronos - Interactive reporting for sales departments</a></li>
+                <li>Techindicators - Python library to generate composite indicators for financial technical analysis</li>
+                <li>Among others...</li>
+            </div>
+        {% endif %}
+    {% endfor %}
+</section>
