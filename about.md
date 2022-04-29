@@ -30,7 +30,7 @@ layout: page
 <h3>Data Science and Machine Learning</h3>
 
 <ul class="skill-list">
-	<li>Natural Language Processing (NLP) for information preprocessing, extraction and transformation and structuring</li>
+	<li>Natural Language Processing (NLP) for information preprocessing, extraction, transformation and structuring</li>
 	<li>Time series forecasting</li>
 	<li>Regression analysis with statistical modeling and machine learning strategies</li>
 	<li>Machine learning frameworks as Scikit-Learn and H2O</li>
