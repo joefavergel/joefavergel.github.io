@@ -3,7 +3,7 @@
 <p align="center">A virtual bussines card in Github Pages</p>
 
 <p align="center">
-  <a href="http://guane.com.co/">[Charlie Global Locations Documentation]</a>
+  <a href="http://guane.com.co/">[guane enterprises]</a>
   <br> <br>
   <a href="#about">About</a> •
   <a href="#features">Features</a> •
