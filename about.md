@@ -64,6 +64,10 @@ layout: page
 	<li><a href="https://assistant.charliebot.ai/">CharlieBot.ai - Atomation platform for quote processing in logistics sector</a></li>
 	<li><a href="https://thori.guane.com.co/">Thori - Forecasting platform for electrical generation and demand</a></li>
 	<li><a href="https://kronos.charliebot.ai/">Kronos - Interactive reporting for sales departments</a></li>
+	<li>Comodity API - Commodity categorization from unstructured text for transportation asurences</li>
+	<li>OTR Pricing - Predicting transportation base costs for On-the-Roud (OTR) modality</li>
+    <li>FORES - Automatic forecasting platform for electrical generation and demand</li>
+    <li>GMVTool - Financial BPO tool for customer data processing</li>
 	<li>Techindicators - Python library to generate composite indicators for financial technical analysis</li>
 	<li>Among others...</li>
 </ul>
