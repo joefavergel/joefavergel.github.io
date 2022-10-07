@@ -61,13 +61,21 @@ layout: page
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://assistant.charliebot.ai/">CharlieBot.ai - Atomation platform for quote processing in logistics sector</a></li>
-	<li><a href="https://thori.guane.com.co/">Thori - Forecasting platform for electrical generation and demand</a></li>
-	<li><a href="https://kronos.charliebot.ai/">Kronos - Interactive reporting for sales departments</a></li>
+	<li><a href="https://assistant.charliebot.ai/">CharlieBot.ai</a> - Atomation platform for quote processing in logistics sector</li>
+	<li><a href="https://http://charlie-mail.charliebot.ai/">CharlieMail</a> - Smart email client for colaborative work in logistics sector</li>
+	<li><a href="https://kronos.charliebot.ai/">Kronos</a> - Interactive reporting for sales departments</li>
+	<li><a href="https://thori.guane.com.co/">Thori</a> - Forecasting platform for electrical generation and demand</a></li>
+	<li>Hypercubes Docs API - Web service for logistic document understanding and information structuring</li>
 	<li>Comodity API - Commodity categorization from unstructured text for transportation asurences</li>
 	<li>OTR Pricing - Predicting transportation base costs for Over-the-Road (OTR) modality</li>
     <li>FORES - Automatic forecasting platform for electrical generation and demand</li>
     <li>GMVTool - Financial BPO tool for customer data processing</li>
 	<li>Techindicators - Python library to generate composite indicators for financial technical analysis</li>
 	<li>Among others...</li>
+</ul>
+
+<h2>Talks</h2>
+
+<ul>
+	<li><a href="https://www.gumelab.net/es/transfer/veranstaltungen/Kommende-Aktivitaeten/Taller-en-la-Universidad-de-Antioquia_-Medellin.html">UdeA-GUMELAB Workshop, 6-7th October, Medellín</a> - Following a New Typology of Criminal Structures Inspired by Data (Slides soon)</li>
 </ul>
