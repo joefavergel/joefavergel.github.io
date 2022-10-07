@@ -38,7 +38,7 @@ layout: page
 	<li>Data manipulation with Pandas and PySpark</li>
 	<li>Numpy, Scipy and Statsmodels</li>
 	<li>Vizualization with Matplotlib, Plotly, Bokeh and HoloViews</li>
-	<li>Design and implmentation of MLOps patterns as Model-as-Service, serverles architectures, among others</li>
+	<li>Design and implementation of MLOps patterns as Model-as-Service, serverles architectures, among others</li>
 	<li>Machine Learning Operations (MLOps) to put models in production</li>
 </ul>
 
