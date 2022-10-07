@@ -6,13 +6,13 @@ layout: page
 
 <h1>A little about me...</h1>
 
-<p>I am passionate about science and technology, but the first time I learned about programming, it was simply love at first sight. The first time I had contact with the code was in 2007, after installing my first GNU/Linux distribution (Ubuntu 7.04 Feisty Fawn) and I met the bash terminal. Control my machine without using the very flashy graphical environment of the time (back then the boom in GNU/Linux was <a href="https://es.wikipedia.org/wiki/Compiz">Compiz</a>) , it produced a lot of emotion, curiosity and an insatiable desire to learn more. From there, my main operating system after my time at the University and until today, were the Unix systems in many of its flavors, such as Ubuntu, Debian, Arch Linux, Fedora, OpenSuse, WifiSlax and others. . Since then I haven't stopped learning and it ended up becoming one of my life goals, to be a software developer.</p>
+<p>I am passionate about science and technology, but the first time I learned about programming, it was simply love at first sight. The first time I had contact with the code was in 2007, after installing my first GNU/Linux distribution (Ubuntu 7.04 Feisty Fawn) and I met the bash terminal. Control my machine without using the very flashy graphical environment of the time (back then the boom in GNU/Linux was <a href="https://es.wikipedia.org/wiki/Compiz">Compiz</a>) , it produced a lot of emotion, curiosity and an insatiable desire to learn more. From there, my main operating system until today have been Unix systems in many of its flavors, such as Ubuntu, Debian, Arch Linux, OpenSuse, Solaris, macOS and others. Since then I haven't stopped learning and coding ended up defining one of my life goals, to be a software developer.</p>
 
-<p>After programming my first <a href="https://en.wikipedia.org/wiki/%22Hello,_World!%22_program">"Hello world!"</a>, it has been a long road of learning, to which statistical modeling, data science and machine learning came organically and naturally (I am a physicist). Now I not only love programming, but also create new data-driven products that leverage "artificial intelligence" technologies (hype term that groups many fields of knowledge of statistics and computational sciences) and in this way maximize the capabilities of the users. I acquired this new passion for creating products in the process of creating my own software development company, <a href="http://guane.com.co">guane enterprises</a>. "<i><b>guane</b> is a cloud software and development company aimed at applying data sciences and artificial intelligence tools to solve industry problems in the fourth industrial revolution.</i>", but that's another long story ...</p>
+<p>After programming my first <a href="https://en.wikipedia.org/wiki/%22Hello,_World!%22_program">"Hello world!"</a>, it has been a long road of learning, where statistical modeling, data science and machine learning came naturally (I am a physicist). Now I not only love programming, but also create new data-driven products that leverage "artificial intelligence" technologies (hype term that groups many fields of knowledge of statistics and computational sciences) and in this way maximize the capabilities of the users. I acquired this new passion for creating products in the process of creating my own software development company, <a href="http://guane.com.co">guane enterprises</a>. "<i><b>guane</b> is a cloud software and development company aimed at applying data sciences and artificial intelligence tools to solve industry problems in the fourth industrial revolution.</i>", but that's another long story...</p>
 
 
 <br>
-<h2>Skills</h2>
+<h2>My Skills</h2>
 <br>
 <h3>Data Product Management</h3>
 
@@ -49,7 +49,7 @@ layout: page
 	<li>Experience with event-driven domain and microservices architectures</li>
 	<li>Python (Design Patterns, Testes)</li>
 	<li>Asynchronous programming with FastAPI, Celery, RabbitMQ and Redis</li>
-	<li>PostgreSQL and MongoDB daatabases</li>
+	<li>PostgreSQL and MongoDB databases</li>
 	<li>Docker and Docker Swarm</li>
 	<li>Javascript</li>
 	<li>HTML and CSS (Stylus, Sass, Less)</li>
