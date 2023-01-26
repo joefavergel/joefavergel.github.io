@@ -74,8 +74,16 @@ layout: page
 	<li>Among others...</li>
 </ul>
 
-<h2>Talks</h2>
+<h2>Talks and Posters</h2>
 
 <ul>
-	<li><a href="https://www.gumelab.net/es/transfer/veranstaltungen/Kommende-Aktivitaeten/Taller-en-la-Universidad-de-Antioquia_-Medellin.html">UdeA-GUMELAB Workshop, 6-7th October, Medellín</a> - Following a New Typology of Criminal Structures Inspired by Data (Slides soon)</li>
+	<li>
+		Vergel, J. and Pachón, L. A. (2022). <a href="https://www.gumelab.net/transfer/veranstaltungen/Bisherige-Aktivitaeten/Programa-Workshop-Medellin.pdf">Following a New Typology of Criminal Structures Inspired by Data.</a> 1st UdeA-GUMELAB Workshop, 6-7th October, (Medellín, Colombia)
+	</li>
+	<li>
+		Vergel, J. and Pachón, L. A. (2019). <a href="https://khipu.ai/postersessions/">Assisted Optimal Transfer of Excitonic Energy by Deep Reinforcement Learning.</a> 1st Khipu - Latin American meeting in Artificial Intelligence, Universidad de la República Engineering School, 11-15th November, (Montevideo, Uruguay)
+	</li>
+	<li>
+		Vergel, J. and Pachón, L. A. (2019). <a href="http://157.253.244.83/~cursillo_gr/escuela2019/abstracts.php">Assisted Optimal Transfer of Excitonic Energy by Deep Reinforcement Learning.</a> Machine learning for quantum matter and technology, 10th School of Mathematical Physics, Universidad de los Andes, 27-31th May, (Montevideo, Uruguay)
+	</li>
 </ul>
