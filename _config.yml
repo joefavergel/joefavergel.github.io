@@ -40,7 +40,7 @@ twitter: joefavergel
 # instagram: myinstagram
 linkedin: joseph-fabricio-vergel-becerra
 github: joefavergel
-email: joseph@guane.com.co
+email: info@joefaver.dev
 
 authors:
   joefaver:
@@ -49,12 +49,6 @@ authors:
     external-image: false
     picture: assets/images/profile.jpg
     twitter: joefavergel
-  # jamesfoster:
-  #   name: James Foster
-  #   bio: A Man who develops software with coffee
-  #   external-image: false
-  #   picture: assets/images/james.jpg
-  #   twitter: jamesfoster
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
