@@ -12,9 +12,9 @@
   <a href="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000">
     <img src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" alt="Version" height="18">
   </a>
-  <a  href="[https://twitter.com/guaneAI](https://twitter.com/guaneAI)"  target="_blank">
+  <a  href="[https://twitter.com/joefavergel](https://twitter.com/joefavergel)"  target="_blank">
 
-  <img  alt="Twitter: GuaneAI"  src="https://img.shields.io/twitter/follow/guaneAI.svg?style=social"  />
+  <img  alt="Twitter: joefavergel"  src="https://img.shields.io/twitter/follow/joefavergel.svg?style=social"  />
   </a>
 </p>
 

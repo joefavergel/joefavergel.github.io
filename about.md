@@ -6,26 +6,13 @@ layout: page
 
 <h1>A little about me...</h1>
 
-<p>I am passionate about science and technology, but the first time I learned about programming, it was simply love at first sight. The first time I had contact with the code was in 2007, after installing my first GNU/Linux distribution (Ubuntu 7.04 Feisty Fawn) and I met the bash terminal. Control my machine without using the very flashy graphical environment of the time (back then the boom in GNU/Linux was <a href="https://es.wikipedia.org/wiki/Compiz">Compiz</a>) , it produced a lot of emotion, curiosity and an insatiable desire to learn more. From there, my main operating system until today have been Unix systems in many of its flavors, such as Ubuntu, Debian, Arch Linux, OpenSuse, Solaris, macOS and others. Since then I haven't stopped learning and coding ended up defining one of my life goals, to be a software developer.</p>
+<p>I am passionate about science and technology, but the first time I learned about programming, it was simply love at first sight. My first encounter with code was in 2007, after installing my first GNU/Linux distribution (Ubuntu 7.04 Feisty Fawn) and discovering the bash terminal. Controlling my machine without using the flashy graphical environment of the time (back then the boom in GNU/Linux was <a href="https://es.wikipedia.org/wiki/Compiz">Compiz</a>) sparked immense emotion, curiosity, and an insatiable desire to learn more. From there, my main operating systems until today have been Unix systems in many of their flavors, such as Ubuntu, Debian, Arch Linux, OpenSuse, Solaris, macOS, and others. Since then, I haven't stopped learning, and coding became one of my life goals: to be a software developer.</p>
 
-<p>After programming my first <a href="https://en.wikipedia.org/wiki/%22Hello,_World!%22_program">"Hello world!"</a>, it has been a long road of learning, where statistical modeling, data science and machine learning came naturally (I am a physicist). Now I not only love programming, but also create new data-driven products that leverage "artificial intelligence" technologies (hype term that groups many fields of knowledge of statistics and computational sciences) and in this way maximize the capabilities of the users. I acquired this new passion for creating products in the process of creating my own software development company, <a href="http://guane.com.co">guane enterprises</a>. "<i><b>guane</b> is a cloud software and development company aimed at applying data sciences and artificial intelligence tools to solve industry problems in the fourth industrial revolution.</i>", but that's another long story...</p>
+<p>After writing my first <a href="https://en.wikipedia.org/wiki/%22Hello,_World!%22_program">"Hello world!"</a>, it has been a long road of learning, where statistical modeling, data science, and machine learning came naturally (I am a physicist). Now I don't just love programming; I also create new data-driven products that leverage "artificial intelligence" technologies (a buzzword that encompasses many fields of statistics and computational sciences) to maximize user capabilities. I acquired this passion for creating products while co-founding a software development factory, <a href="http://guane.com.co">guane enterprises</a>. "<i><b>guane</b> is a cloud software and development company aimed at applying data science and artificial intelligence tools to solve industry problems in the fourth industrial revolution.</i>", but that's another long story...</p>
 
 
 <br>
 <h2>My Skills</h2>
-<br>
-<h3>Data Product Management</h3>
-
-<ul class="skill-list">
-	<li>Agile methodologies: Scrum and XtremeProgramming Frameworks</li>
-	<li>Project management with Azure DevOps, Jira and Trello</li>
-	<li>Design experience and coordination with Figma and Adobe XD</li>
-	<li>Work hand in hand with the data science, backend, frontend and SRE (operations and infrastructure) teams</li>
-	<li>Design thinking for software development</li>
-	<li>Strong technical knowledge for solid decision making</li>
-	<li>Gitflow revision</li>
-</ul>
-
 
 <h3>Data Science and Machine Learning</h3>
 
@@ -48,7 +35,7 @@ layout: page
 <ul class="skill-list">
 	<li>Experience with event-driven domain and microservices architectures</li>
 	<li>Python (Design Patterns, Testes)</li>
-	<li>Asynchronous programming with FastAPI, Celery, RabbitMQ and Redis</li>
+	<li>Asynchronous tasks queuing archiectures with FastAPI, Celery, RabbitMQ and Redis</li>
 	<li>PostgreSQL and MongoDB databases</li>
 	<li>Docker and Docker Swarm</li>
 	<li>Javascript</li>
@@ -58,13 +45,27 @@ layout: page
 	<li>Numerical computations with Fortran, C and OpenMP</li>
 </ul>
 
+
+<h3>Data Product Management</h3>
+
+<ul class="skill-list">
+	<li>Agile methodologies: Scrum and XtremeProgramming Frameworks</li>
+	<li>Project management with Azure DevOps, Jira and Trello</li>
+	<li>Design experience and coordination with Figma and Adobe XD</li>
+	<li>Work hand in hand with the data science, backend, frontend and SRE (operations and infrastructure) teams</li>
+	<li>Design thinking for software development</li>
+	<li>Strong technical knowledge for solid decision making</li>
+	<li>Gitflow revision</li>
+</ul>
+
+<br>
 <h2>Projects</h2>
 
 <ul>
 	<li><a href="https://assistant.charliebot.ai/">CharlieBot.ai</a> - Atomation platform for quote processing in logistics sector</li>
-	<li><a href="https://http://charlie-mail.charliebot.ai/">CharlieMail</a> - Smart email client for colaborative work in logistics sector</li>
+	<li><a href="https://charlie-mail.charliebot.ai/">CharlieMail</a> - Smart email client for colaborative work in logistics sector</li>
 	<li><a href="https://kronos.charliebot.ai/">Kronos</a> - Interactive reporting for sales departments</li>
-	<li><a href="https://thori.guane.com.co/">Thori</a> - Forecasting platform for electrical generation and demand</a></li>
+	<li><a href="https://thori.guane.com.co/">Thori</a> - Forecasting platform for electrical generation and demand</li>
 	<li>Hypercubes Docs API - Web service for logistic document understanding and information structuring</li>
 	<li>Comodity API - Commodity categorization from unstructured text for transportation asurences</li>
 	<li>OTR Pricing - Predicting transportation base costs for Over-the-Road (OTR) modality</li>
@@ -74,6 +75,7 @@ layout: page
 	<li>Among others...</li>
 </ul>
 
+<br>
 <h2>Talks and Posters</h2>
 
 <ul>
@@ -84,6 +86,15 @@ layout: page
 		Vergel, J. and Pachón, L. A. (2019). <a href="https://khipu.ai/postersessions/">Assisted Optimal Transfer of Excitonic Energy by Deep Reinforcement Learning.</a> 1st Khipu - Latin American meeting in Artificial Intelligence, Universidad de la República Engineering School, 11-15th November, (Montevideo, Uruguay)
 	</li>
 	<li>
-		Vergel, J. and Pachón, L. A. (2019). <a href="http://157.253.244.83/~cursillo_gr/escuela2019/abstracts.php">Assisted Optimal Transfer of Excitonic Energy by Deep Reinforcement Learning.</a> Machine learning for quantum matter and technology, 10th School of Mathematical Physics, Universidad de los Andes, 27-31th May, (Montevideo, Uruguay)
+		Vergel, J. and Pachón, L. A. (2019). Assisted Optimal Transfer of Excitonic Energy by Floquet Engineering and Deep Reinforcement Learning. Machine learning for quantum matter and technology, 10th School of Mathematical Physics, Universidad de los Andes, 27-31th May, (Bogotá, Colombia)
+	</li>
+	<li>
+		Vergel, J. and Meneses, J. E. (2017). Fotogrametría de rango muy cercano para la evaluación metrológica de elementos quirúrgicos en procesos de control de calidad. XV Encuentro Nacional de Óptica y VI Conferencia Andina y del Caribe en Óptica y sus aplicaciones (XV ENO-VI CANCOA), 20-24th November, (Bucaramanga, Colombia)
+	</li>
+	<li>
+		Vergel, J. and Meneses, J. E. (2017). Remallado isotrópico adaptativo por curvatura local en reconstrucciones tridimensionales de estructuras óseas para aplicaciones en ciencias forenses. Bistua: Revista de la Facultad de Ciencias Básicas, Universidad de Pamplona-Colombia. 15(1):73-88 ISSN 0120-4211
+	</li>
+	<li>
+		Vergel, J., Contreras, C. R., and Meneses, J. E. (2014). Interactive mesh and curvature analysis of a 3D point cloud obtained by the fringe projection technique (FPT). Latin America Optics and Photonics Conference
 	</li>
 </ul>
