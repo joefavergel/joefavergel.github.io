@@ -1,7 +1,7 @@
 # main text of home
 title: Joseph F. Vergel-Becerra
 company: guane enterprises
-bio: Data Product Manager | Data Scientist & Machine Learning Engineer | M.Sc. in Physics
+bio: Lead Machine Learning Engineer | Lead AI Automation Engineer | Data Product Manager | M.Sc. in Physics
 
 # twitter summary info
 description: Know a little about me
@@ -18,7 +18,7 @@ dark-theme: true
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://drive.google.com/file/d/1KVvH3e9mkylAxQvNR0OHVu5seqcqZdO0/view?usp=sharing
+resume-url: https://drive.google.com/file/d/1psuqCZIoHJ_JHZvNo-vKutCC0fBXWOO0/view?usp=sharing
 
 url: https://joefavergel.github.io
 # your url: https://USERNAME.github.io
@@ -35,17 +35,16 @@ disqus:
 
 # if you don't have any of social below, comment the line
 # facebook: joseph.f.vergel
-whatsapp: 573187042914
 twitter: joefavergel
 # instagram: myinstagram
 linkedin: joseph-fabricio-vergel-becerra
 github: joefavergel
-email: info@joefaver.dev
+email: joefavergel@gmail.com
 
 authors:
   joefaver:
     name: Joseph F. Vergel-Becerra
-    bio: Data Product Manager | Data Scientist & Machine Learning Engineer | M.Sc. in Physics
+    bio: Lead Machine Learning Engineer | Lead AI Automation Engineer | Data Product Manager | M.Sc. in Physics
     external-image: false
     picture: assets/images/profile.jpg
     twitter: joefavergel

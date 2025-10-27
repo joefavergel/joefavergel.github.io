@@ -1,0 +1,147 @@
+# CLAUDE.md
+
+This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+
+## Overview
+
+This is a personal portfolio website built with Jekyll and hosted on GitHub Pages. It's based on the [Indigo Minimalist Jekyll Template](https://github.com/sergiokopplin/indigo) and serves as a virtual business card for Joseph F. Vergel-Becerra, showcasing professional experience, skills, projects, and talks.
+
+## Technology Stack
+
+- **Jekyll**: Static site generator (requires Ruby 2.7.3+)
+- **Bundler**: Ruby dependency management
+- **Sass**: CSS preprocessor for styling
+- **GitHub Pages**: Hosting and deployment
+
+## Development Commands
+
+### Local Development
+
+```bash
+# Install dependencies (first time only)
+bundle install
+
+# Run local development server
+bundle exec jekyll serve
+
+# The site will be available at http://localhost:4000
+```
+
+### Build and Test
+
+```bash
+# Build the site (output to _site/)
+bundle exec jekyll build
+
+# Run HTML validation
+rake
+```
+
+## Architecture and Structure
+
+### Key Configuration
+
+All site configuration is in `_config.yml`:
+- Personal information (name, bio, company, social links)
+- Feature toggles (projects, blog, read-time, tags, related posts, author display)
+- Theme settings (dark-theme, width, animations)
+- Resume configuration (external link to Google Drive)
+- Plugin configuration (SEO, feed, pagination, Disqus comments)
+
+### Directory Structure
+
+- `_layouts/`: HTML templates that wrap content
+  - `default.html`: Base layout with conditional dark theme styling
+  - `post.html`: Blog post layout with metadata, navigation, and optional features
+  - `page.html`: Static page layout
+  - `compress.html`: HTML compression wrapper
+
+- `_includes/`: Reusable HTML components
+  - `header.html`, `footer.html`, `nav.html`: Page structure components
+  - `author.html`, `social-links.html`: Profile components
+  - `related.html`, `pagination.html`: Content discovery
+  - `disqus.html`: Comments integration
+  - `style.scss`, `style-dark.scss`: Theme-specific stylesheets
+
+- `_sass/`: Sass stylesheets organized by function
+  - `base/`: Variables, syntax highlighting, general styles
+  - `components/`: Modular component styles (nav, footer, header, etc.)
+  - `pages/`: Page-specific styles (home, post, tags)
+
+- `_posts/`: Blog posts in Markdown (format: `YYYY-MM-DD-title.markdown`)
+
+- `assets/`: Static files
+  - `images/`: Profile photo, favicon variants, error pages
+  - `documents/`: CV PDF
+
+### Content Pages
+
+- `index.html`: Homepage
+- `about.md`: About page with skills, projects, and talks (Markdown with HTML)
+- `blog.html`: Blog post listing
+- `projects.html`: Projects showcase
+- `tags.html`: Tag-based content navigation
+- `404.html`: Custom error page
+
+### Jekyll Plugins
+
+Configured in `_config.yml`:
+- `jekyll-seo-tag`: SEO optimization
+- `jekyll-gist`: GitHub Gist embedding
+- `jekyll-feed`: RSS feed generation
+- `jemoji`: Emoji support in Markdown
+- `jekyll-paginate-v2`: Content pagination
+
+### Theme System
+
+The site supports dark/light themes via `_config.yml`:
+- `dark-theme: true` loads `style-dark.scss`
+- `dark-theme: false` loads `style.scss`
+- Theme variables in `_sass/base/variables.sass` and `_sass/base/variables-dark.sass`
+
+## Content Management
+
+### Adding/Editing Personal Information
+
+Edit `_config.yml` to update:
+- Profile information (title, bio, company)
+- Social media links (twitter, linkedin, github, email, whatsapp)
+- Resume link (resume-url)
+- Profile picture path
+
+### Adding Blog Posts
+
+Create new file in `_posts/` with format: `YYYY-MM-DD-post-title.markdown`
+
+```markdown
+---
+title: "Post Title"
+layout: post
+date: YYYY-MM-DD HH:MM
+tag: [tag1, tag2]
+category: blog
+author: joefaver
+description: "Post description"
+---
+
+Content here...
+```
+
+### Updating Profile Picture
+
+Replace `assets/images/profile.jpg` with new image (square format recommended)
+
+### Updating CV
+
+Upload new PDF to `assets/documents/` or update external Google Drive link in `_config.yml`
+
+## Deployment
+
+The site is deployed via GitHub Pages automatically when pushing to the repository. The custom domain is configured via the `CNAME` file (joefaver.dev).
+
+## Important Notes
+
+- The `_site/` directory is the build output and should not be edited directly
+- Front matter in Markdown files controls layout and metadata
+- The site uses GitHub Pages compatible plugins only
+- Blog functionality is currently disabled (`blog: false` in `_config.yml`)
